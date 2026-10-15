@@ -1,0 +1,1 @@
+{"name":"travellite-pro-cloud","version":"0.2.0","private":true,"engines":{"node":">=22"},"scripts":{"start":"node server.js","test":"node --test tests/*.test.js"},"dependencies":{"bcryptjs":"^2.4.3","express":"^4.21.2","pg":"^8.13.1"}}
